@@ -1,7 +1,3 @@
-# Lizzy The Cat API
-
-Get random pictures of my cat, Lizzy.
-
 ## Resources used
 
 https://fastapi.tiangolo.com/deployment/docker/#build-a-docker-image-with-a-single-file-fastapi
